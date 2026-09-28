@@ -4,7 +4,7 @@
 
 ## Ideas into useful software.
 
-Hi, I'm **meolord**. I build AI applications, developer tools, and everyday utilities, with care for the user experience.
+I build AI applications, developer tools, and everyday utilities, with care for the user experience.
 
 [![Website: meolord.com](https://img.shields.io/badge/Website-meolord.com-397D65?style=flat-square&labelColor=24292f)](https://meolord.com)
 [![GitHub: shenmuegit](https://img.shields.io/badge/GitHub-shenmuegit-34648C?style=flat-square&logo=github&logoColor=white&labelColor=24292f)](https://github.com/shenmuegit)

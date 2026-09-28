@@ -1,35 +1,35 @@
 <p>
-  <img src="./assets/profile-cover.png" alt="meolord · Ideas into useful software. 白色折纸猫与绿色细节的个人横幅" width="100%">
+  <img src="./assets/profile-cover.png" alt="meolord · Ideas into useful software. A white origami cat with green accents." width="100%">
 </p>
 
-## 把想法做成好用的软件。
+## Ideas into useful software.
 
-你好，我是 **meolord**。关注 AI 应用、开发者工具和日常效率，也在意产品用起来的感受。
+Hi, I'm **meolord**. I build AI applications, developer tools, and everyday utilities, with care for the user experience.
 
-[浏览全部项目](https://github.com/shenmuegit?tab=repositories)
+[Explore all projects](https://github.com/shenmuegit?tab=repositories)
 
-### 最近在做
+### Current work
 
-**[WhaleKey · 鲸序输入法](https://github.com/shenmuegit/whalekey)**
+**[WhaleKey](https://github.com/shenmuegit/whalekey)**
 
-正在开发的 Android 中文输入法，基于 Fcitx5 Android，探索离线拼音输入与端侧文字改写。
+An Android Chinese keyboard in early development, based on Fcitx5 Android. Exploring offline Pinyin input and on-device text rewriting.
 
-`Kotlin` `Android` `端侧 AI`　**早期开发中**
+`Kotlin` `Android` `On-device AI` · **Early development**
 
-### 一些作品
+### Selected projects
 
 **[StackCat](https://github.com/shenmuegit/StackCat)**  
-Java 应用运行时调用链追踪与分析，帮助看清方法调用、SQL 和性能瓶颈。  
+Runtime call tracing and analysis for Java applications. Explore method calls, SQL, and performance bottlenecks.  
 <sub>Java · Java Agent · Spring Boot</sub>
 
 **[PestiGraph](https://github.com/shenmuegit/PestiGraph)**  
-基于 Microsoft GraphRAG 的农药登记信息知识图谱，让专业资料可以检索、问答和可视化。  
-<sub>Python · GraphRAG · 知识图谱</sub>
+A pesticide registration knowledge graph built on Microsoft GraphRAG, with search, Q&A, and interactive visualization.  
+<sub>Python · GraphRAG · Knowledge graphs</sub>
 
 **[WordHook](https://github.com/shenmuegit/WordHook)**  
-在网页上划词学英语：AI 解释、本地朗读，再把学到的内容存进 Anki。  
-<sub>JavaScript · Chrome 扩展 · LLM</sub>
+Learn English as you browse: highlight text for AI explanations and local text-to-speech, then save what you learn to Anki.  
+<sub>JavaScript · Chrome extension · LLM</sub>
 
 ---
 
-使用问题和改进建议，欢迎在对应项目的 Issues 里交流。
+Feedback and suggestions are welcome in each project's Issues.

@@ -10,7 +10,7 @@ I build AI applications, developer tools, and everyday utilities, with care for 
 [![GitHub: shenmuegit](https://img.shields.io/badge/GitHub-shenmuegit-34648C?style=flat-square&logo=github&logoColor=white&labelColor=24292f)](https://github.com/shenmuegit)
 [![X: @mmdrrrrrrrrr](https://img.shields.io/badge/X-%40mmdrrrrrrrrr-24292f?style=flat-square&logo=x&logoColor=white&labelColor=24292f)](https://x.com/mmdrrrrrrrrr)
 [![Email: shenmuegm@gmail.com](https://img.shields.io/badge/Email-shenmuegm%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=24292f)](mailto:shenmuegm@gmail.com)
-[![WeChat: Scan QR code](https://img.shields.io/badge/WeChat-Scan_QR_code-168742?style=flat-square&logo=wechat&logoColor=white&labelColor=24292f)](https://meolord.com/wechat-qr.jpg)
+[![WeChat: meolord](https://img.shields.io/badge/meolord-168742?style=flat-square&logo=wechat&logoColor=white)](https://meolord.com/wechat-qr.jpg)
 [![Xiaohongshu: meolord](https://img.shields.io/badge/meolord-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)](./assets/xiaohongshu-qr.jpg)
 [![Douyin: meolord](https://img.shields.io/badge/meolord-111111?style=flat-square&logo=tiktok&logoColor=white)](./assets/douyin-qr.jpg)
 

@@ -11,6 +11,8 @@ I build AI applications, developer tools, and everyday utilities, with care for 
 [![X: @mmdrrrrrrrrr](https://img.shields.io/badge/X-%40mmdrrrrrrrrr-24292f?style=flat-square&logo=x&logoColor=white&labelColor=24292f)](https://x.com/mmdrrrrrrrrr)
 [![Email: shenmuegm@gmail.com](https://img.shields.io/badge/Email-shenmuegm%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=24292f)](mailto:shenmuegm@gmail.com)
 [![WeChat: Scan QR code](https://img.shields.io/badge/WeChat-Scan_QR_code-168742?style=flat-square&logo=wechat&logoColor=white&labelColor=24292f)](https://meolord.com/wechat-qr.jpg)
+[![Xiaohongshu: 4930867108](https://img.shields.io/badge/Xiaohongshu-4930867108-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white&labelColor=24292f)](./assets/xiaohongshu-qr.jpg)
+[![Douyin: 1079872772](https://img.shields.io/badge/Douyin-1079872772-111111?style=flat-square&logo=tiktok&logoColor=white&labelColor=24292f)](./assets/douyin-qr.jpg)
 
 [Explore all projects](https://github.com/shenmuegit?tab=repositories)
 

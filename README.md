@@ -18,11 +18,25 @@ I build AI applications, developer tools, and everyday utilities, with care for 
 
 ### Current work
 
-**[WhaleKey](https://github.com/shenmuegit/whalekey)**
+**[AppleHomePod for Windows](https://github.com/shenmuegit/AppleHomePod-windows)**<br>
+Play Windows music, video, and system audio through HomePod over your local network, using the Windows output menu and volume controls.<br>
+<sub>C# · .NET · Rust · Preview; validated with one HomePod mini on Windows 10</sub>
 
-An Android Chinese keyboard in early development, based on Fcitx5 Android. Exploring offline Pinyin input and on-device text rewriting.
+**[Codex Console](https://github.com/shenmuegit/codex-console)**<br>
+Access your Codex workspace from a mobile browser, with a native app-server Web client and a Linux desktop-window streaming option.<br>
+<sub>JavaScript · Mobile Web · Developer tools</sub>
 
-`Kotlin` `Android` `On-device AI` · **Early development**
+**[codex-transient-retry](https://github.com/shenmuegit/codex-transient-retry)**<br>
+Local buffered retries for transient Codex model and remote compaction failures, with guarded Windows setup.<br>
+<sub>Python · Codex · Reliability</sub>
+
+**[Isola](https://github.com/shenmuegit/Isola)**<br>
+A shared home for independent React plugins, with a Web client, server, marketplace, and public SDK in development.<br>
+<sub>TypeScript · React · Plugin framework · Web development preview</sub>
+
+**[WhaleKey](https://github.com/shenmuegit/whalekey)**<br>
+An Android Chinese keyboard based on Fcitx5 Android, exploring offline Pinyin input and on-device text rewriting.<br>
+<sub>Kotlin · Android · On-device AI · Early development</sub>
 
 ### Selected projects
 

@@ -46,20 +46,6 @@ A shared home for independent React plugins, with a Web client, server, marketpl
 An offline Android Pinyin keyboard built on Fcitx5 Android and Rime Ice, with on-device text rewriting and a preview before replacement.<br>
 <sub>Kotlin · Android · Rime · On-device AI · Early development; debug APK tested on an Android 15 emulator</sub>
 
-### Selected projects
-
-**[StackCat](https://github.com/shenmuegit/StackCat)**  
-Runtime call tracing and analysis for Java applications. Explore method calls, SQL, and performance bottlenecks.  
-<sub>Java · Java Agent · Spring Boot</sub>
-
-**[PestiGraph](https://github.com/shenmuegit/PestiGraph)**  
-A pesticide registration knowledge graph built on Microsoft GraphRAG, with search, Q&A, and interactive visualization.  
-<sub>Python · GraphRAG · Knowledge graphs</sub>
-
-**[WordHook](https://github.com/shenmuegit/WordHook)**  
-Learn English as you browse: highlight text for AI explanations and local text-to-speech, then save what you learn to Anki.  
-<sub>JavaScript · Chrome extension · LLM</sub>
-
 ---
 
 Feedback and suggestions are welcome in each project's Issues.

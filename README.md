@@ -18,6 +18,14 @@ I build AI applications, developer tools, and everyday utilities, with care for 
 
 ### Current work
 
+**[Mixcat](https://github.com/shenmuegit/mixcat)**<br>
+An independent desktop workbench for persistent Codex conversations. Organize projects on a workflow canvas, collaborate across agents, and review their work at explicit checkpoints.<br>
+<sub>TypeScript · Electron · Codex · Early development preview for Windows</sub>
+
+**[EquiTide](https://github.com/shenmuegit/EquiTide)**<br>
+A BTC/ETH quantitative research workspace with historical analysis, reproducible backtests, and a Web interface for research tasks and results.<br>
+<sub>Python · NautilusTrader · React · Research and backtesting; live trading not validated</sub>
+
 **[AppleHomePod for Windows](https://github.com/shenmuegit/AppleHomePod-windows)**<br>
 Play Windows music, video, and system audio through HomePod over your local network, using the Windows output menu and volume controls.<br>
 <sub>C# · .NET · Rust · Preview; validated with one HomePod mini on Windows 10</sub>
@@ -27,7 +35,7 @@ Access your Codex workspace from a mobile browser, with a native app-server Web 
 <sub>JavaScript · Mobile Web · Developer tools</sub>
 
 **[codex-transient-retry](https://github.com/shenmuegit/codex-transient-retry)**<br>
-Local buffered retries for transient Codex model and remote compaction failures, with guarded Windows setup.<br>
+A local Windows proxy that adds automatic retries to Codex gateway requests, including model calls and remote context compaction. Responses are fully buffered before delivery.<br>
 <sub>Python · Codex · Reliability</sub>
 
 **[Isola](https://github.com/shenmuegit/Isola)**<br>
@@ -35,8 +43,8 @@ A shared home for independent React plugins, with a Web client, server, marketpl
 <sub>TypeScript · React · Plugin framework · Web development preview</sub>
 
 **[WhaleKey](https://github.com/shenmuegit/whalekey)**<br>
-An Android Chinese keyboard based on Fcitx5 Android, exploring offline Pinyin input and on-device text rewriting.<br>
-<sub>Kotlin · Android · On-device AI · Early development</sub>
+An offline Android Pinyin keyboard built on Fcitx5 Android and Rime Ice, with on-device text rewriting and a preview before replacement.<br>
+<sub>Kotlin · Android · Rime · On-device AI · Early development; debug APK tested on an Android 15 emulator</sub>
 
 ### Selected projects
 

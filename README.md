@@ -6,6 +6,8 @@
 
 I build AI applications, developer tools, and everyday utilities, with care for the user experience.
 
+**[Visit my website → meolord.com](https://meolord.com)**
+
 [![Website: meolord.com](https://img.shields.io/badge/Website-meolord.com-397D65?style=flat-square&labelColor=24292f)](https://meolord.com)
 [![GitHub: shenmuegit](https://img.shields.io/badge/GitHub-shenmuegit-34648C?style=flat-square&logo=github&logoColor=white&labelColor=24292f)](https://github.com/shenmuegit)
 [![X: @mmdrrrrrrrrr](https://img.shields.io/badge/X-%40mmdrrrrrrrrr-24292f?style=flat-square&logo=x&logoColor=white&labelColor=24292f)](https://x.com/mmdrrrrrrrrr)
